@@ -1,12 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "east": "tutorialmod:block/platin_lamp_on",
-    "south": "tutorialmod:block/platin_lamp_on",
-    "west": "tutorialmod:block/platin_lamp_on",
-    "north": "tutorialmod:block/platin_lamp_on",
-
-    "up": "tutorialmod:block/platin_lamp_top",
-    "down": "tutorialmod:block/platin_lamp_top"
+    "all": "tutorialmod:block/platin_lamp_on"
   }
 }

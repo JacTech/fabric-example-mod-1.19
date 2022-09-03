@@ -8,6 +8,9 @@
   "block.tutorialmod.deepslate_platin_ore": "Deepslate Platin Ore",
   "block.tutorialmod.dice_block": "Dice Block",
   "block.tutorialmod.platin_lamp": "Platin Lamp",
+  "block.tutorialmod.strawberry": "Strawberry",
+  "block.tutorialmod.strawberry_seeds": "Strawberry Seeds",
+  "block.tutorialmod.roast_duck": "Roasted Duck",
 
   "item.tutorialmod.dice.tooltip.shhift_1": "Rightklick to get a random number",
   "item.tutorialmod.dice.tooltip.shhift_0": "Hold Shift for more info",

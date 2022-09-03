@@ -1,6 +1,6 @@
 {
   "variants": {
     "lit=true": { "model": "tutorialmod:block/platin_lamp_on"},
-    "lit=false": { "model": "tutorialmod:block/platin_lamp_of"}
+    "lit=false": { "model": "tutorialmod:block/platin_lamp_off"}
   }
-}
+} 

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "+#+",
+    " + "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glowstone"
+    },
+    "+": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "tutorialmod:platin"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:platin_lamp"
+  }
+}
