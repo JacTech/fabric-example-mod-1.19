@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:platin_block",
+    "tutorialmod:platin_ore",
+    "tutorialmod:deepslate_platin_ore",
+    "tutorialmod:raw_platin_block"
+  ]
+}

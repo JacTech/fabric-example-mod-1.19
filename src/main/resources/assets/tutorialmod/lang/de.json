@@ -1,0 +1,15 @@
+{
+  "item.tutorialmod.raw_platin": "Rohes Platin",
+  "item.tutorialmod.platin": "Platin",
+  "item.tutorialmod.dice": "Würfel",
+  "block.tutorialmod.platin_block": "Platin Block",
+  "block.tutorialmod.raw_platin_block": "Roher Platin Block",
+  "block.tutorialmod.platin_ore": "Platin Ertz",
+  "block.tutorialmod.deepslate_platin_ore": "Deepslate Platin Ertz",
+  "block.tutorialmod.dice_block": "Würfel Block",
+
+  "item.tutorialmod.dice.tooltip.shhift_1": "Drücke Rechtsklich um eine zufällige Nummer zu erhalten",
+  "item.tutorialmod.dice.tooltip.shhift_0": "Halte Shift für mer infos",
+
+  "itemGroup.tutorialmod.platin": "Platinium"
+}

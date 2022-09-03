@@ -1,0 +1,16 @@
+{
+  "item.tutorialmod.raw_platin": "Raw Platin",
+  "item.tutorialmod.platin": "Platin",
+  "item.tutorialmod.dice": "Dice",
+  "block.tutorialmod.platin_block": "Block of Platin",
+  "block.tutorialmod.raw_platin_block": "Block of raw Platin",
+  "block.tutorialmod.platin_ore": "Platin Ore",
+  "block.tutorialmod.deepslate_platin_ore": "Deepslate Platin Ore",
+  "block.tutorialmod.dice_block": "Dice Block",
+  "block.tutorialmod.platin_lamp": "Platin Lamp",
+
+  "item.tutorialmod.dice.tooltip.shhift_1": "Rightklick to get a random number",
+  "item.tutorialmod.dice.tooltip.shhift_0": "Hold Shift for more info",
+
+  "itemGroup.tutorialmod.platin": "Platinium"
+}

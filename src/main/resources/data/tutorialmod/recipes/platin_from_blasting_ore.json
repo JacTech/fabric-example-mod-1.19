@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "platin",
+  "ingredient": {
+    "item": "tutorialmod:platin_ore"
+  },
+  "result": "tutorialmod:platin"
+
+}

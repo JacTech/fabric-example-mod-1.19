@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:platin_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:platin",
+    "count": 9
+  }
+}
