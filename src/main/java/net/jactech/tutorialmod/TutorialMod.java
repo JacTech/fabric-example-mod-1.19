@@ -3,6 +3,7 @@ package net.jactech.tutorialmod;
 import net.fabricmc.api.ModInitializer;
 import net.jactech.tutorialmod.block.ModBlocks;
 import net.jactech.tutorialmod.item.ModItems;
+import net.jactech.tutorialmod.villager.ModVillagers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,6 +16,9 @@ public class TutorialMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		ModVillagers.registerVillagers();
+		ModVillagers.registerTrades();
 
 	}
 }
